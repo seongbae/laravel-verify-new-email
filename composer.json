@@ -1,11 +1,11 @@
 {
-    "name": "protonemedia/laravel-verify-new-email",
+    "name": "seongbae/laravel-verify-new-email",
     "description": "Package to handle email address updates and verification",
     "keywords": [
         "protonemedia",
         "laravel-verify-new-email"
     ],
-    "homepage": "https://github.com/protonemedia/laravel-verify-new-email",
+    "homepage": "https://github.com/seongbae/laravel-verify-new-email",
     "license": "MIT",
     "type": "library",
     "authors": [
